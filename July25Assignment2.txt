@@ -1,0 +1,131 @@
+1- private int dFileSize
+
+public void setFileSize(int fileSize)
+{
+  this.fileSize = filesSize;
+}
+public int getFileSize()
+{
+  return fileSize;
+}
+
+2- private int acres
+
+public void set setAcres(int acres)
+{
+  this.acres = acres;
+}
+public int getAcres()
+{
+  return acres;
+}
+
+3- private String fileName
+
+public void setFileName(int fileName)
+{
+  this.fileName = filesName;
+}
+public int getFileName()
+{
+  return fileName;
+}
+
+4- private String phoneNumber
+
+public void setPhoneNumber(String phoneNumber)
+{
+  this.phoneNumber = phoneNumber;
+}
+public String getPhoneNumber()
+{
+  return phoneNUmber;
+}
+
+5- private String compName
+
+public void setCompName(String compName)
+{
+  this.compName = compName;
+}
+public String getCompName()
+{
+  return compName;
+}
+
+6- private Date todaysDate
+
+public void setTodaysDate(Date fileSize)
+{
+  this.todaysDate = todaysDate;
+}
+public Date getTodaysDate()
+{
+  return todaysDate;
+}
+
+7- private boolean lightSwitch
+
+public void setLightSwitch(boolean lightSwitch)
+{
+  this.lightSwitch = lightSwitch;
+}
+public boolean getLightSwitch()
+{
+  return lightSwitch;
+}
+
+8- private double pi
+
+public void setPi(double pi)
+{
+  this.pi = pi;
+}
+public double getPi()
+{
+  return pi;
+}
+
+9- private double speedOfLightV
+
+public void setSpeedOfLightV(int speedOfLight)
+{
+  this.speedOfLight = speedOfLight;
+}
+public double speedOfLight()
+{
+  return speedOfLight;
+}
+
+10- private Vehicle vehicle()
+
+public void setVehicle(Vehicle vehicle)
+{
+  this.vehicle = vehicle;
+}
+public int getVehicle()
+{
+  return vehcile;
+}
+
+11- private int address;
+
+public void setAddress(Address address)
+{
+  this.address = address
+}
+public int getAddress()
+{
+  return address;
+}
+
+12- private Products[] productlist = new Products
+
+public void setProductList(Product[] productList)
+{
+  this.productList = productlist;
+}
+public int getProductList()
+{
+  return productList;
+}
